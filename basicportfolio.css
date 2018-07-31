@@ -1,0 +1,19 @@
+.box {
+	box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+	max-width: 300px;
+	margin: auto;
+	text-align: center;
+}
+
+.title {
+	color: rgb(18, 3, 151);
+	font-size: 20px;
+}
+
+a {
+	
+	text-align: center;
+	font-size: 22px;
+	color: rgb(245, 7, 7);
+}
+
